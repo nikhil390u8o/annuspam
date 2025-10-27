@@ -38,4 +38,7 @@ SUDO_USERS.append(OWNER_ID)
 # Initialize only one active bot client
 X1 = TelegramClient('X1', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
+#add one bot
+X2 = X3 = X4 = X5 = X6 = X7 = X8 = X9 = X10 = X1
+
 
