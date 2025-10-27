@@ -7,7 +7,7 @@ import urllib3
 
 
 from pathlib import Path
-from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
+from config import X1
 
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s', level=logging.WARNING)
